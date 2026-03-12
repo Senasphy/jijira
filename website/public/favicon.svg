@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="32" fill="#09090b"/>
+  <!-- Minimalist Geometric J -->
+  <path d="M82 32 H54 V44 H66 V80 C66 86 62 90 56 90 S46 86 46 80 H36 C36 90 44 100 56 100 S76 90 76 80 V44 H86 V32 Z" fill="#10b981" />
+  <!-- Minimalist Accents -->
+  <rect x="85" y="48" width="8" height="8" fill="#10b981" opacity="0.6" />
+  <rect x="35" y="76" width="8" height="8" fill="#10b981" opacity="0.6" />
+</svg>
