@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="128" height="128" viewBox="0 0 128 128">
+  <rect width="128" height="128" rx="32" fill="#0f172a"/>
+  <!-- J shape -->
+  <path d="M78 35 H52 V45 H64 V82 C64 88 60 92 54 92 S44 88 44 82 H34 C34 92 42 102 54 102 S74 92 74 82 V45 H84 V35 Z" fill="#10b981" />
+  <!-- Exchange arrows -->
+  <path d="M85 45 L95 55 L85 65 M95 55 H75" fill="none" stroke="#10b981" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M43 65 L33 75 L43 85 M33 75 H53" fill="none" stroke="#10b981" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>
