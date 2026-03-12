@@ -2,7 +2,7 @@
 
 > A currency conversion engine that lives in your browser. Built for people tired of alt-tabbing to a converter every time they shop online.
 
-![Popup Screenshot]("./public/jijira-popup.png")
+![Popup Screenshot](./public/jijira-popup.png)
 
 ---
 
@@ -18,7 +18,7 @@ It's not a simple find-and-replace. It tracks the original values so you can con
 
 **Popup**
 
-![Popup UI]("./public/jijira-settings.png")
+![Popup UI](./public/jijira-settings.png)
 
 **Settings Page**
 
