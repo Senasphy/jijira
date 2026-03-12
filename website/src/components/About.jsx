@@ -93,18 +93,17 @@ export default function About() {
             className="space-y-8"
           >
             <div className="space-y-4">
-              <h2 className="text-[12px] font-black uppercase tracking-[0.4em] text-accent">Personal_Mission</h2>
+              <h2 className="text-[12px] font-black uppercase tracking-[0.4em] text-accent">The Goal</h2>
               <div className="h-1.5 w-16 bg-accent shadow-[0_0_12px_#10b981]"></div>
             </div>
             
             <p className="text-3xl font-bold text-text-primary leading-tight tracking-tight">
-              I am a developer who builds tools to solve real problems.
+              I am a developer who builds tools to solve actual problems.
             </p>
 
             <p className="text-xl text-text-secondary leading-relaxed">
               JIJIRA was born out of my own frustration with the friction of online shopping. 
-              I wanted to build something that felt intentional, high-quality, and completely open. 
-              No distractions, just precision.
+              I wanted to build something that felt intentional, high-quality, and completely open and I believe this chrome extension is the first step towards that goal.
             </p>
 
             <div className="pt-4">
