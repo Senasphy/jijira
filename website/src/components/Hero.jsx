@@ -1,5 +1,6 @@
 import { motion } from "motion/react";
 import { Github, Chrome } from "lucide-react";
+import heroImage from "../../public/jijira-popup.png";
 
 export default function Hero() {
   return (
@@ -64,9 +65,9 @@ export default function Hero() {
           <div className="relative z-10 bg-bg-surface border border-bg-elevated p-1 rounded-sm shadow-[0_0_80px_rgba(0,0,0,0.9)] group">
              <div className="bg-bg-base border border-bg-elevated overflow-hidden relative flex items-center justify-center">
                 <img 
-                  src="/jijira-popup.png" 
+                  src={heroImage} 
                   alt="Jijira Extension Preview" 
-                  className="w-full h-auto object-contain block opacity-90 group-hover:opacity-100 transition-opacity duration-500"
+                  className="w-full h-auto object-contain block border rounded-sm up-hover:opacity-100 transition-opacity duration-500"
                 />
                 
                 {/* Decorative scanning line animation */}
