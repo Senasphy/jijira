@@ -52,16 +52,16 @@ export default function Footer() {
 
         <div className="pt-10 border-t border-bg-elevated flex flex-col md:flex-row justify-between items-center gap-8">
           <p className="text-[13px] text-text-muted uppercase font-black tracking-[0.3em]">
-            MIT License · Built by Sena · {currentYear}
+            MIT License 
           </p>
-          <div className="flex items-center gap-4 text-[13px] text-text-muted font-black tracking-[0.3em] uppercase">
+          <div className="flex items-center gap-4 text-[13px] text-text-muted font-black tracking-[0.3em] ">
              <a 
               href="https://github.com/Senasphy/jijira" 
               target="_blank" 
               rel="noopener noreferrer"
               className="hover:text-accent transition-all cursor-pointer"
              >
-              github.com/Senasphy/jijira
+                Built by Sena · {currentYear}
              </a>
           </div>
         </div>

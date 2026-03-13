@@ -3,10 +3,10 @@ import { Github, Linkedin, Instagram, Send, ExternalLink, Cpu } from "lucide-rea
 
 export default function About() {
   const socialLinks = [
-    { icon: <Send size={20} />, url: "#", label: "Telegram" },
-    { icon: <Linkedin size={20} />, url: "#", label: "LinkedIn" },
-    { icon: <Instagram size={20} />, url: "#", label: "Instagram" },
-    { icon: <Github size={20} />, url: "https://github.com/Senasphy/jijira", label: "GitHub" }
+    { icon: <Send size={20} />, url: "https://t.me/SM10AR", label: "Telegram" },
+    { icon: <Linkedin size={20} />, url: "https://www.linkedin.com/in/sena-abebe-430460289", label: "LinkedIn" },
+    { icon: <Instagram size={20} />, url: "https://www.instagram.com/senasphy?igsh=MTEzejc1anI2YmlqdQ==", label: "Instagram" },
+    { icon: <Github size={20} />, url: "https://github.com/Senasphy", label: "GitHub" }
   ];
 
   const devStats = [
@@ -68,9 +68,7 @@ export default function About() {
                         rel="noopener noreferrer"
                         whileHover={{ 
                           scale: 1.1,
-                          backgroundColor: "rgba(16,185,129,0.1)",
                           color: "#10b981",
-                          borderColor: "rgba(16,185,129,0.3)"
                         }}
                         className="w-12 h-12 flex items-center justify-center text-text-muted border border-transparent rounded-sm transition-all duration-300"
                         title={link.label}
