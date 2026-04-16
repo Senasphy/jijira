@@ -1,6 +1,6 @@
 # JIJIRA
 
-> A currency conversion engine that lives in your browser. Built for people tired of alt-tabbing to a converter every time they shop online.
+A currency conversion engine that lives in your browser. Built for people tired of alt-tabbing to a converter every time they shop online.
 
 ![Popup Screenshot](./public/jijira.png)
 

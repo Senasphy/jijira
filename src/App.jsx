@@ -1,10 +1,7 @@
 import { useState, useEffect, useMemo } from 'react';
-import { Settings, RefreshCw, Triangle } from 'lucide-react';
+import { Settings, RefreshCw } from 'lucide-react';
 
-/**
- * JIJIRA_ENGINE // Main Entry Point
- * Implements custom list rendering for pixel-perfect emerald theme consistency.
- */
+
 export default function App() {
   const [targetCurrency, setTargetCurrency] = useState('ETB');
   const [rates, setRates] = useState({});
